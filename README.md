@@ -27,3 +27,14 @@ https://discord.com/developers
 ```
 python nuker_terminal_v3.py
 ```
+
+
+
+[1] Nuke Server (Delete All + Spam)
+ [2] Ban All Members
+ [3] Create 100 Spam Channels
+ [4] Spam @everyone
+ [5] Rename Server
+ [6] Delete All Roles Only     ← الزر الجديد
+ [7] Leave Server
+ [0] Exit
