@@ -1,6 +1,9 @@
 # 1. احفظ الكود في ملف جديد:
 
-nuker_terminal_fixed.py
+```
+https://github.com/ZarkosX/Nuke-Server.git
+cd Nuke-Server
+```
 
 # 2. ثبّت المكتبة:
 ```
